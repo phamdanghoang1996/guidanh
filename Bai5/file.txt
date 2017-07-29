@@ -1,0 +1,37 @@
+Using a cheap robot, a team of hackers has cracked open a leading-brand combination safe, live on stage in Las Vegas.
+
+The team from SparkFun Electronics was able to open a SentrySafe safe in around 30 minutes.
+
+The robot is able to reduce the number of possible combinations from one million to just 1,000, before quickly and automatically trying the remaining combinations until it breaks in.
+
+After the robot discovered the combination was 51.36.93, the safe popped open - to rapturous applause from the audience of several hundred hackers.
+
+SparkFun’s Nathan Siedle told the BBC: "That was one of the scariest things we’ve done. Lots of things can go wrong, and this was a very big audience.
+
+"We’re really happy it opened up.”
+
+A spokeswoman for SentrySafe could not be reached on Friday.
+
+But speaking to Wired magazine earlier this month, when the team demonstrated its method on a smaller safe, a spokeswoman for the safe maker said: "In this environment, the product accomplished what it was designed to do.
+
+“[It] would be realistically very difficult, if not impossible, for the average person to replicate in the field.”
+Image caption The team was relieved to see the safe open up
+Budget bot
+
+The latest demonstration was performed at Def Con, the largest gathering of underground hackers in the world.
+
+The SparkFun team was not able to travel with a weighty safe, and so bought a new one that was opened up for the first time on stage.
+Image caption The robot can be adapted to fit any combination safe by 3D-printing two new parts
+
+The team joked the safe could have been cracked sooner - but they had to fill their 45-minute time slot.
+
+The robot, which cost around $200 to put together, makes use of 3D-printed parts that can be easily replaced to fit different brands of combination safe.
+
+It cannot crack a digital lock - although vulnerabilities in those systems have been exposed by other hacking teams in the past.
+Lost combination
+
+The team’s work began when Mr Siedle’s wife Alicia bought a safe on eBay that was cheap due to the previous owner not knowing what the combination was.
+
+“She gave it to me for Christmas,” Mr Siedle said.
+
+The mechanism in the safe consists of three dials which, when aligned, allow the safe to be opened. Each dial can be any two digit number - meaning one million potential combinations. 
